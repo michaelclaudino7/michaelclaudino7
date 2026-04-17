@@ -28,7 +28,7 @@ Possuo experiência prévia como desenvolvedor e atualmente direciono minha carr
 ![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue)
 
 ### ☁️ Cloud & Plataforma
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ---
