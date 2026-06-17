@@ -1,52 +1,43 @@
 # 👋 Olá, eu sou Michael Rodrigues
-
-💻 Engenheiro de Dados em formação, com foco na construção de pipelines de dados escaláveis e soluções orientadas a dados em ambientes cloud.
-
-Possuo experiência prévia como desenvolvedor e atualmente direciono minha carreira para Engenharia de Dados, com ênfase em processamento distribuído, orquestração e arquitetura de dados.
+💻 Engenheiro de Software Fullstack com experiência em desenvolvimento de APIs RESTful e interfaces modernas, atuando com C#, .NET, React, Next.js e TypeScript em ambientes produtivos.
 
 ---
 
 ## 🚀 Sobre mim
-
-- 🎓 Estudante de Ciência da Computação
-- 🔄 Transição estratégica de Desenvolvimento para Engenharia de Dados
-- 📊 Foco em ETL, Data Pipelines e Processamento Distribuído
-- ☁️ Interesse em Arquiteturas de Dados em Cloud
-- 📚 Estudando continuamente Python, SQL e ecossistema de dados
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas — UNINOVE (2024)
+- 💼 Experiência em projetos Fullstack com foco em qualidade de código e boas práticas
+- 🔧 Atuação em backend com C# e .NET e frontend com React e Next.js
+- 🐳 Familiaridade com Docker, CI/CD e versionamento com Git
+- 📚 Aprendizado contínuo em arquitetura de software e engenharia de sistemas
 
 ---
 
 ## 🛠 Stack Principal
 
-### 💾 Dados & Processamento
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+### ⚙️ Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
-### 🔄 Engenharia & Orquestração
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
-### ☁️ Cloud & Plataforma
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+### 🔧 DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
----
-
-## 📌 Projeto em Destaque
-
-### 🌦 Weather ETL Pipeline  
-
-Implementação de pipeline ETL para ingestão de dados climáticos em tempo real, com etapas de extração via API, transformação estruturada e armazenamento em camada analítica (CSV/JSON).
-
-**Tecnologias:** Python, Requests, Pandas, PyYAML  
-
-🔗 Repositório:  
-https://github.com/michaelclaudino7/weather-etl-pipeline 
 
 ---
 
 ## 📫 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/michael-rodrigues7/  
-- 📧 Email: michaelclaudino7@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/michael-rodrigues7/
+- 📧 Email: michaelclaudino7@gmail.com
