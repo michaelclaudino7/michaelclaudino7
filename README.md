@@ -1,23 +1,23 @@
 # 👋 Olá, eu sou Michael Rodrigues
-💻 Engenheiro de Software Fullstack com experiência em desenvolvimento de APIs RESTful e interfaces modernas, atuando com C#, .NET, React, Next.js e TypeScript em ambientes produtivos.
-
----
+💻 Desenvolvedor Full Stack, com foco em arquitetura sólida e código de qualidade.
+<br><br>
 
 ## 🚀 Sobre mim
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas — UNINOVE (2024)
+- 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
 - 💼 Experiência em projetos Fullstack com foco em qualidade de código e boas práticas
-- 🔧 Atuação em backend com C# e .NET e frontend com React e Next.js
+- 🔧 Atuação profissional em frontend e backend, com foco em qualidade e boas práticas
+- 🧩 Aprofundamento em C#, .NET, Entity Framework e RabbitMQ via projetos próprios
 - 🐳 Familiaridade com Docker, CI/CD e versionamento com Git
 - 📚 Aprendizado contínuo em arquitetura de software e engenharia de sistemas
-
----
+<br>
 
 ## 🛠 Stack Principal
 
 ### ⚙️ Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
@@ -34,9 +34,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-
----
+<br><br>
 
 ## 📫 Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/michael-rodrigues7/
