@@ -7,9 +7,9 @@
 - 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
 - 💼 Experiência profissional em frontend e backend, com foco em qualidade de código e boas práticas
 - 🔧 Atuação com React, Next.js, TypeScript, Node.js, Express e APIs RESTful
-- 🧩 Aprofundamento em C#, .NET e Entity Framework, RabbitMQ, microsserviços, AWS, Python via projetos próprios
+- 🧩 Aprofundamento em Python, FastAPI, PostgreSQL RabbitMQ, microsserviços, AWS via projetos próprios
 - 🐳 Experiência com Docker, CI/CD e versionamento com Git
-- 📚 Aprendizado contínuo em arquitetura de software e engenharia de sistemas
+- 📚 Aprendizado contínuo em system design, arquitetura de software e engenharia de sistemas
 
 ## 🛠 Stack Principal
 
@@ -18,18 +18,14 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 ### ⚙️ Backend
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🔧 DevOps & Dados
 
