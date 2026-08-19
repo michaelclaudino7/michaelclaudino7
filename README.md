@@ -39,5 +39,5 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/michael-rodrigues7/
+- 💼 LinkedIn: https://www.linkedin.com/in/michael-claudino7/
 - 📧 Email: michaelclaudino7@gmail.com
