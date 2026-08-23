@@ -4,10 +4,10 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas — UNINOVE
 - 💼 Experiência profissional em frontend e backend, com foco em qualidade de código e boas práticas
 - 🔧 Atuação com React, Next.js, TypeScript, Node.js, Express e APIs RESTful
-- 🧩 Aprofundamento em Python, FastAPI, PostgreSQL RabbitMQ, microsserviços, AWS via projetos próprios
+- 🧩 Aprofundamento em C#, .NET, Entity Framework, PostgreSQL, RabbitMQ, microsserviços, AWS via projetos próprios
 - 🐳 Experiência com Docker, CI/CD e versionamento com Git
 - 📚 Aprendizado contínuo em system design, arquitetura de software e engenharia de sistemas
 
@@ -21,8 +21,9 @@
 
 ### ⚙️ Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
