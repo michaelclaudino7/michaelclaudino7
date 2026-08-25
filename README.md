@@ -6,7 +6,7 @@
 
 - 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
 - 💼 Experiência profissional em frontend, utilizando React, Next.js e TypeScript
-- 🔧 Atualmente aprofundando conhecimentos em Backend com C#, .NET, Entity Framework, SQL Server, RabbitMQ, microsserviços, Azure via projetos próprios
+- 🔧 Foco atual em Backend com C#, .NET, Entity Framework, SQL Server, RabbitMQ, microsserviços, Azure via projetos próprios
 - 🐳 Experiência com Docker, CI/CD e versionamento com Git
 - 📚 Aprendizado contínuo em system design, arquitetura de software e engenharia de sistemas
 
