@@ -7,7 +7,7 @@
 - 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
 - 💼 Experiência profissional em frontend e backend, com foco em qualidade de código e boas práticas
 - 🔧 Atuação com React, Next.js, TypeScript, Node.js, Express e APIs RESTful
-- 🧩 Aprofundamento em C#, .NET, Entity Framework, PostgreSQL, RabbitMQ, microsserviços, AWS via projetos próprios
+- 🧩 Aprofundamento em C#, .NET, Entity Framework, PostgreSQL, SQL Server, RabbitMQ, microsserviços, AWS via projetos próprios
 - 🐳 Experiência com Docker, CI/CD e versionamento com Git
 - 📚 Aprendizado contínuo em system design, arquitetura de software e engenharia de sistemas
 
