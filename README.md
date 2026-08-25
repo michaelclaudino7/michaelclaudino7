@@ -5,9 +5,8 @@
 ## 🚀 Sobre mim
 
 - 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
-- 💼 Experiência profissional em frontend e backend, com foco em qualidade de código e boas práticas
-- 🔧 Atuação com React, Next.js, TypeScript, Node.js, Express e APIs RESTful
-- 🧩 Aprofundamento em C#, .NET, Entity Framework, PostgreSQL, SQL Server, RabbitMQ, microsserviços, AWS via projetos próprios
+- 💼 Experiência profissional em frontend, utilizando React, Next.js e TypeScript
+- 🔧 Atualmente aprofundando conhecimentos em Backend com C#, .NET, Entity Framework, SQL Server, RabbitMQ, microsserviços, Azure via projetos próprios
 - 🐳 Experiência com Docker, CI/CD e versionamento com Git
 - 📚 Aprendizado contínuo em system design, arquitetura de software e engenharia de sistemas
 
@@ -33,7 +32,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
