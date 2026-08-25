@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas — UNINOVE
+- 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
 - 💼 Experiência profissional em frontend e backend, com foco em qualidade de código e boas práticas
 - 🔧 Atuação com React, Next.js, TypeScript, Node.js, Express e APIs RESTful
 - 🧩 Aprofundamento em C#, .NET, Entity Framework, PostgreSQL, RabbitMQ, microsserviços, AWS via projetos próprios
@@ -25,6 +25,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
