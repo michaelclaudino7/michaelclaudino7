@@ -5,8 +5,8 @@
 ## 🚀 Sobre mim
 
 - 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
-- 💼 Experiência profissional em frontend, utilizando React, Next.js e TypeScript
-- 🔧 Foco atual em Backend com C#, .NET, Entity Framework, SQL Server, RabbitMQ, microsserviços, Azure via projetos próprios
+- 💼 Experiência profissional full stack, com frontend em React, Next.js e TypeScript, e backend em C#, .NET, Entity Framework
+- 🔧 Atuação com SQL Server, MongoDB, RabbitMQ, microsserviços e Azure em ambiente de produção
 - 🐳 Experiência com Docker, CI/CD e versionamento com Git
 - 📚 Aprendizado contínuo em system design, arquitetura de software e engenharia de sistemas
 
@@ -40,4 +40,5 @@
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/michael-claudino7/
+- 🌐 Portfólio: https://portfolio-michael-claudino.vercel.app/
 - 📧 Email: michaelclaudino7@gmail.com
