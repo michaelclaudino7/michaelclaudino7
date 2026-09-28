@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Graduando em Ciência da Computação — Universidade Anhembi Morumbi
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas — Universidade Nove de Julho (UNINOVE)
 - 💼 Experiência profissional full stack, com frontend em React, Next.js e TypeScript, e backend em C#, .NET, Entity Framework
 - 🔧 Atuação com SQL Server, MongoDB, RabbitMQ, microsserviços e Azure em ambiente de produção
 - 🐳 Experiência com Docker, CI/CD e versionamento com Git
